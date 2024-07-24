@@ -1,9 +1,37 @@
 [
 {
-  count:2
-  rating:2
-  reviews:["More expensive than the first two books and the paper is awfully. Dots show up on the paper after painting. They went with a cheaper watercolor paper then the first two books.",
-            "I love the first 2 books. This one is not the same tho. Paper does not hold water and pigment as well. I watched her youtube video explaining not to use as much water and im really not but the paint pigment pools up, the paper gets wrinkled and the color bleeds to the opposite side of the page. I only paid $15 for it which isnt bad but disappointed she kinda lied on her youtube video that the paper is the same but 'lightweight', the paper sucks, which really effects the way your paintings look. Im using good paint and brushes as well.]
+  "count":2
+  "rating":"1"
+  "reviews":["More expensive than the first two books and the paper is awfully. Dots show up on the paper after painting. They went with a cheaper watercolor paper then the first two books.",
+            "I love the first 2 books. This one is not the same tho. Paper does not hold water and pigment as well. I watched her youtube video explaining not to use as much water and im really not but the paint pigment pools up, the paper gets wrinkled and the color bleeds to the opposite side of the page. I only paid $15 for it which isnt bad but disappointed she kinda lied on her youtube video that the paper is the same but 'lightweight', the paper sucks, which really effects the way your paintings look. Im using good paint and brushes as well."]
 }
+{
+  "count":2
+  "rating":"2"
+  "reviews":["More expensive than the first two books and the paper is awfully. Dots show up on the paper after painting. They went with a cheaper watercolor paper then the first two books.",
+            "I love the first 2 books. This one is not the same tho. Paper does not hold water and pigment as well. I watched her youtube video explaining not to use as much water and im really not but the paint pigment pools up, the paper gets wrinkled and the color bleeds to the opposite side of the page. I only paid $15 for it which isnt bad but disappointed she kinda lied on her youtube video that the paper is the same but 'lightweight', the paper sucks, which really effects the way your paintings look. Im using good paint and brushes as well."]
+},
+
+{
+  "count":2
+  "rating":"3"
+  "reviews":["More expensive than the first two books and the paper is awfully. Dots show up on the paper after painting. They went with a cheaper watercolor paper then the first two books.",
+            "I love the first 2 books. This one is not the same tho. Paper does not hold water and pigment as well. I watched her youtube video explaining not to use as much water and im really not but the paint pigment pools up, the paper gets wrinkled and the color bleeds to the opposite side of the page. I only paid $15 for it which isnt bad but disappointed she kinda lied on her youtube video that the paper is the same but 'lightweight', the paper sucks, which really effects the way your paintings look. Im using good paint and brushes as well."]
+},
+  
+{
+  "count":2
+  "rating":"4"
+  "reviews":["More expensive than the first two books and the paper is awfully. Dots show up on the paper after painting. They went with a cheaper watercolor paper then the first two books.",
+            "I love the first 2 books. This one is not the same tho. Paper does not hold water and pigment as well. I watched her youtube video explaining not to use as much water and im really not but the paint pigment pools up, the paper gets wrinkled and the color bleeds to the opposite side of the page. I only paid $15 for it which isnt bad but disappointed she kinda lied on her youtube video that the paper is the same but 'lightweight', the paper sucks, which really effects the way your paintings look. Im using good paint and brushes as well."]
+},
+
+{
+  "count":2
+  "rating":5
+  "reviews":["More expensive than the first two books and the paper is awfully. Dots show up on the paper after painting. They went with a cheaper watercolor paper then the first two books.",
+            "I love the first 2 books. This one is not the same tho. Paper does not hold water and pigment as well. I watched her youtube video explaining not to use as much water and im really not but the paint pigment pools up, the paper gets wrinkled and the color bleeds to the opposite side of the page. I only paid $15 for it which isnt bad but disappointed she kinda lied on her youtube video that the paper is the same but 'lightweight', the paper sucks, which really effects the way your paintings look. Im using good paint and brushes as well."]
+}
+  
   
 ]
