@@ -25,22 +25,20 @@ Determine what a user is likely to buy on Amazon based on all available data abo
         Check the Google Drive link for the code https://drive.google.com/drive/u/0/folders/1CxnJUX7nLqTGmjTT-u3yyH0zG_tv75re
 
     **Tweets Extraction API:
-**        Check the given Link https://github.com/sreenivasulum/heroku-persona
+**        [Check the given Link] (https://github.com/sreenivasulum/heroku-persona)
 
     **WordCloud API:**
-        Check the given Link. https://github.com/sreenivasulum/wordcloud
+        [Check the given Link.] (https://github.com/sreenivasulum/wordcloud)
 
     **Single Domain Product Recommendation:
-**        Utilizes a targeted approach for specific domains without RAG Approach.please check given link https://github.com/sreenivasulum/productrecommendationllm.
+**        Utilizes a targeted approach for specific domains without RAG Approach.please check given [link] https://github.com/sreenivasulum/productrecommendationllm.
 
    ** Multiple Product Recommendation Using RAG Approach:**
         Employs Retrieval-Augmented Generation for enhanced product suggestions.
 
-    Datasets folder contains datasets for the mentioned domains
-
-        **Developed code:**- https://github.com/yesh-neo/Research-Project/tree/main/api
+        [Developed code:]- (https://github.com/yesh-neo/Research-Project/tree/main/api)
         
-        **Deployment code:**-https://github.com/yesh-neo/Research-Project/tree/feature/deployment
+        [Deployment code:]-(https://github.com/yesh-neo/Research-Project/tree/feature/deployment)
 
-
+   Datasets folder contains datasets for the mentioned domains
 
