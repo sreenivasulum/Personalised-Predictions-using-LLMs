@@ -20,7 +20,6 @@ Determine what a user is likely to buy on Amazon based on all available data abo
     In-depth analysis of user purchase history
 
 **Components:**
-
     ReactJS Code for UI:
         Check the Google Drive link for the code https://drive.google.com/drive/u/0/folders/1CxnJUX7nLqTGmjTT-u3yyH0zG_tv75re
 
