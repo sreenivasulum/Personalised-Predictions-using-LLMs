@@ -36,6 +36,8 @@ Determine what a user is likely to buy on Amazon based on all available data abo
     Multiple Product Recommendation Using RAG Approach:
         Employs Retrieval-Augmented Generation for enhanced product suggestions.
 
+    Datasets folder contains datasets for the mentioned domains
+
         Developed code:- https://github.com/yesh-neo/Research-Project/tree/main/api
         
         Deployment code:-https://github.com/yesh-neo/Research-Project/tree/feature/deployment
