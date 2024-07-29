@@ -25,16 +25,20 @@ Determine what a user is likely to buy on Amazon based on all available data abo
         Check the Google Drive link for the code
 
     Tweets Extraction API:
-        Link to API documentation
+        Check the given Link https://github.com/sreenivasulum/heroku-persona
 
     WordCloud API:
-        Link to API documentation
+        Check the given Link. https://github.com/sreenivasulum/wordcloud
 
     Single Domain Product Recommendation:
-        Utilizes a targeted approach for specific domains.
+        Utilizes a targeted approach for specific domains without RAG Approach.please check given link https://github.com/sreenivasulum/productrecommendationllm.
 
     Multiple Product Recommendation Using RAG Approach:
         Employs Retrieval-Augmented Generation for enhanced product suggestions.
+
+        Developed code:- https://github.com/yesh-neo/Research-Project/tree/main/api
+        
+        Deployment code:-https://github.com/yesh-neo/Research-Project/tree/feature/deployment
 
 
 
