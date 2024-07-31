@@ -40,6 +40,7 @@ Determine what a user is likely to buy on Amazon based on all available data abo
    Datasets folder contains datasets for the mentioned domains
 
   ** Instructions to run the UI code locally**
+  
       1. First download reactjs code from the google drive (https://drive.google.com/drive/u/0/folders/1CxnJUX7nLqTGmjTT-u3yyH0zG_tv75re)
       2. Install nodejs which is greater than 18+ or 20 +.
       3. Change the path to downloaded file "cd path/vite-project"
@@ -53,7 +54,8 @@ Determine what a user is likely to buy on Amazon based on all available data abo
       7. Open RecommendationDashboard.jsx file in the path of vite-project/src/components and paste the url in the .jsx file at the axis.post("https://localhost:6005/getRecommendation"). In the local host url append "/getRecommendation" and place this one.
       8. Then run cmd: **npm run dev**
 
-  **Deployed for Book domain**: Please check this link: https://productrecommend.netlify.app/llm
-                             (i). You will get the recommendations for book domain by clicking on **Book domain** after entering all the details.
+  **Deployed for Book domain**:
+  Please check this link: https://productrecommend.netlify.app/llm
+ (i). You will get the recommendations for book domain by clicking on **Book domain** after entering all the details.
    
     
