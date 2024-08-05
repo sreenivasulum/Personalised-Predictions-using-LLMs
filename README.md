@@ -35,13 +35,13 @@ Determine what a user is likely to buy on Amazon based on all available data abo
    Multiple Product Recommendation Using RAG Approach:
         Employs Retrieval-Augmented Generation for enhanced product suggestions.
         Developed code:- (https://github.com/yesh-neo/Research-Project/tree/main/api)
-         Deployment code: (https://github.com/yesh-neo/Research-Project/tree/feature/deployment)
+         Deployment code: (1.https://github.com/yesh-neo/Research-Project/tree/feature/deployment 2. https://github.com/sreenivasulum/deploymentLLM/tree/simplefunction)
 
    Datasets folder contains datasets for the mentioned domains
 
   ** Instructions to run the UI code locally**
   
-      1. First download reactjs code from the google drive (https://drive.google.com/drive/u/0/folders/1CxnJUX7nLqTGmjTT-u3yyH0zG_tv75re)
+      1. First download reactjs code from the google drive (https://drive.google.com/drive/u/0/folders/1CxnJUX7nLqTGmjTT-u3yyH0zG_tv75re) or github link:https://github.com/sreenivasulum/Reactcode-PersonalisationLLM.
       2. Install nodejs which is greater than 18+ or 20 +.
       3. Change the path to downloaded file "cd path/vite-project"
       4.  Install npm. (i.e) 1. npm init  2. npm install . Run this two commands after installing nodejs.
