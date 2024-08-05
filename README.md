@@ -57,5 +57,10 @@ Determine what a user is likely to buy on Amazon based on all available data abo
   **Deployed for Book domain**:
   Please check this link: https://productrecommend.netlify.app/llm
  (i). You will get the recommendations for book domain by clicking on **Book domain** after entering all the details.
+
+**Deployment for multiproduct recommendation**
+https://multidomainproductrecommendation.netlify.app/
+**Usage:** User can enter all the required for the mentioned domains and twitter username and Check the Recommendations tab to get the insights and recommended products.
+ 
    
     
