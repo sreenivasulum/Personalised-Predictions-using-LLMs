@@ -22,7 +22,7 @@ Determine what a user is likely to buy on Amazon based on all available data abo
 **Components:**
 
     ReactJS Code for UI:
-        Check the Google Drive link for the code (https://drive.google.com/drive/u/0/folders/1CxnJUX7nLqTGmjTT-u3yyH0zG_tv75re)
+        Check the Google Drive link for the code (https://drive.google.com/drive/u/0/folders/1CxnJUX7nLqTGmjTT-u3yyH0zG_tv75re) or github link:https://github.com/sreenivasulum/Reactcode-PersonalisationLLM
     Tweets Extraction API:
     Check the given Link (https://github.com/sreenivasulum/heroku-persona)
 
